@@ -10,13 +10,13 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mansurissa/blog-api.git"
+    "url": "git+https://github.com/mansurissa/cli-temperature-conventer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mansurissa/cli-temp-conventer/issues"
+    "url": "https://github.com/mansurissa/cli-temperature-conventer/issues"
   },
-  "homepage": "https://github.com/mansurissa/cli-temp-conventer#readme"
+  "homepage": "https://github.com/mansurissa/cli-temperature-conventer#readme"
 }
