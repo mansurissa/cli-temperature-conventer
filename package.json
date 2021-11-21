@@ -1,0 +1,22 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "The backend for my Blog",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansurissa/blog-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansurissa/cli-temp-conventer/issues"
+  },
+  "homepage": "https://github.com/mansurissa/cli-temp-conventer#readme"
+}
